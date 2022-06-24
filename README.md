@@ -1,10 +1,6 @@
 ### Hi there! sou kilder Augusto👋
 
 
-
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working  na vivo  (Telefónica)
 - 🌱  Desenvolvendor Back-End
 - 👯 I’m looking to collaborate  na automação de Testes 
