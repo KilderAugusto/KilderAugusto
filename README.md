@@ -1,13 +1,13 @@
 ### Hi there! sou kilder Augusto👋
 
 
-- 🔭 I’m currently working  na vivo  (Telefónica)
+- 🔭 I’m currently working  in vivo  (Telefónica)
 - 🌱  Desenvolvendor Back-End
-- 👯 I’m looking to collaborate  na automação de Testes 
+- 👯 I’m looking to collaborate in test automation 
 - 💬 Ask me about ... 
 - 📫 How to reach me: .. 
 - 😄 Pronouns: ...      
-- ⚡ Curiosidade: Fã de Star wars e senhor dos anéis
+- ⚡ Curiosidade: Star Wars and Lord of the Rings fan
 
  <div align="center">
    <a href="https://github.com/KilderAugusto">
